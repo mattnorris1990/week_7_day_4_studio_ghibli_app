@@ -1,5 +1,7 @@
 .filmContainer {
   padding: 3%;
+  background: rgb(221,221,255);
+  background: linear-gradient(0deg, rgba(221,221,255,1) 15%, rgba(249,249,255,1) 100%);
 }
 
 .heading-bar {
